@@ -1,0 +1,14 @@
+D:\task2\iti\iti\bin\Debug\net8.0\iti.exe
+D:\task2\iti\iti\bin\Debug\net8.0\iti.deps.json
+D:\task2\iti\iti\bin\Debug\net8.0\iti.runtimeconfig.json
+D:\task2\iti\iti\bin\Debug\net8.0\iti.dll
+D:\task2\iti\iti\bin\Debug\net8.0\iti.pdb
+D:\task2\iti\iti\obj\Debug\net8.0\iti.GeneratedMSBuildEditorConfig.editorconfig
+D:\task2\iti\iti\obj\Debug\net8.0\iti.AssemblyInfoInputs.cache
+D:\task2\iti\iti\obj\Debug\net8.0\iti.AssemblyInfo.cs
+D:\task2\iti\iti\obj\Debug\net8.0\iti.csproj.CoreCompileInputs.cache
+D:\task2\iti\iti\obj\Debug\net8.0\iti.dll
+D:\task2\iti\iti\obj\Debug\net8.0\refint\iti.dll
+D:\task2\iti\iti\obj\Debug\net8.0\iti.pdb
+D:\task2\iti\iti\obj\Debug\net8.0\iti.genruntimeconfig.cache
+D:\task2\iti\iti\obj\Debug\net8.0\ref\iti.dll
