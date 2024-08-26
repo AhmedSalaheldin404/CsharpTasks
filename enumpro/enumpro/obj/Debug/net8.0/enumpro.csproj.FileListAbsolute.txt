@@ -1,0 +1,14 @@
+D:\task2\enumpro\enumpro\bin\Debug\net8.0\enumpro.exe
+D:\task2\enumpro\enumpro\bin\Debug\net8.0\enumpro.deps.json
+D:\task2\enumpro\enumpro\bin\Debug\net8.0\enumpro.runtimeconfig.json
+D:\task2\enumpro\enumpro\bin\Debug\net8.0\enumpro.dll
+D:\task2\enumpro\enumpro\bin\Debug\net8.0\enumpro.pdb
+D:\task2\enumpro\enumpro\obj\Debug\net8.0\enumpro.GeneratedMSBuildEditorConfig.editorconfig
+D:\task2\enumpro\enumpro\obj\Debug\net8.0\enumpro.AssemblyInfoInputs.cache
+D:\task2\enumpro\enumpro\obj\Debug\net8.0\enumpro.AssemblyInfo.cs
+D:\task2\enumpro\enumpro\obj\Debug\net8.0\enumpro.csproj.CoreCompileInputs.cache
+D:\task2\enumpro\enumpro\obj\Debug\net8.0\enumpro.dll
+D:\task2\enumpro\enumpro\obj\Debug\net8.0\refint\enumpro.dll
+D:\task2\enumpro\enumpro\obj\Debug\net8.0\enumpro.pdb
+D:\task2\enumpro\enumpro\obj\Debug\net8.0\enumpro.genruntimeconfig.cache
+D:\task2\enumpro\enumpro\obj\Debug\net8.0\ref\enumpro.dll
