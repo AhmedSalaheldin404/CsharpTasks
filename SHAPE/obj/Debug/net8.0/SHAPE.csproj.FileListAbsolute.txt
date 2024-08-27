@@ -1,0 +1,14 @@
+D:\task2\parentchild\SHAPE\bin\Debug\net8.0\SHAPE.exe
+D:\task2\parentchild\SHAPE\bin\Debug\net8.0\SHAPE.deps.json
+D:\task2\parentchild\SHAPE\bin\Debug\net8.0\SHAPE.runtimeconfig.json
+D:\task2\parentchild\SHAPE\bin\Debug\net8.0\SHAPE.dll
+D:\task2\parentchild\SHAPE\bin\Debug\net8.0\SHAPE.pdb
+D:\task2\parentchild\SHAPE\obj\Debug\net8.0\SHAPE.GeneratedMSBuildEditorConfig.editorconfig
+D:\task2\parentchild\SHAPE\obj\Debug\net8.0\SHAPE.AssemblyInfoInputs.cache
+D:\task2\parentchild\SHAPE\obj\Debug\net8.0\SHAPE.AssemblyInfo.cs
+D:\task2\parentchild\SHAPE\obj\Debug\net8.0\SHAPE.csproj.CoreCompileInputs.cache
+D:\task2\parentchild\SHAPE\obj\Debug\net8.0\SHAPE.dll
+D:\task2\parentchild\SHAPE\obj\Debug\net8.0\refint\SHAPE.dll
+D:\task2\parentchild\SHAPE\obj\Debug\net8.0\SHAPE.pdb
+D:\task2\parentchild\SHAPE\obj\Debug\net8.0\SHAPE.genruntimeconfig.cache
+D:\task2\parentchild\SHAPE\obj\Debug\net8.0\ref\SHAPE.dll
